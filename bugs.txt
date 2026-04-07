@@ -1,0 +1,3 @@
+bugs found:
+
+.removing items from menu stops working after a item is removed from a number of item
