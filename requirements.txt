@@ -1,0 +1,8 @@
+customtkinter 
+tkinter
+datetime
+matplotlib
+threading
+time
+seaborn
+mysql.connector
